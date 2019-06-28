@@ -1,4 +1,4 @@
-import '../styles/index.css'
+import 'antd/dist/antd.css'
 
 import React from 'react'
 import App, { Container } from 'next/app'
